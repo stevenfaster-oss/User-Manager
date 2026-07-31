@@ -65,7 +65,7 @@ fun SplashScreen(
     ) {
         // نام یا عنوان برنامه
         Text(
-            text = "User Manager App",
+            text = "مدیریت کاربران",
             style = MaterialTheme.typography.headlineLarge,
             color = MaterialTheme.colorScheme.primary
         )
