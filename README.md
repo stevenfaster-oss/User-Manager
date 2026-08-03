@@ -1,5 +1,5 @@
 
-```text
+
 <div align="center">
 
 # 📱 User Directory App
