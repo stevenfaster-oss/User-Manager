@@ -76,3 +76,4 @@ git clone [https://github.com/stevenfaster-oss/User-Manager.git]
 ---
 
 Developed with ❤️ by **[stevenfaster-oss](https://www.google.com/search?q=https://github.com/stevenfaster-oss)**
+Buy Coffee For Me? [☕](https://daramet.com/stevenfaster_oss)
